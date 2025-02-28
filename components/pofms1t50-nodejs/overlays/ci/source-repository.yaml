@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pofms1t50-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pofms1t50-nodejs
